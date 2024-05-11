@@ -275,7 +275,7 @@ joblib.dump(preprocessor, 'preprocessor.joblib')
 st.set_page_config(
     page_title= 'Flight Price Prediction',
     page_icon="✈️",
-    layout='wide'
+    layout='centered'
 )
 
 
