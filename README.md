@@ -66,7 +66,7 @@ Spearman's correlation for numerical-numerical variables.
 
 <img src="images/multivariate.png">
 
-## Conclusions
+## Feature Engineering & Selection
 After Performing Feature Engineering, there were total 31 features. I used **RandomForestRegressor** for feature selection. Based on **r2** score dataset got 12 most strongly associated features with target variables **Price**
 
 ## Model Training and Deployment
@@ -79,5 +79,7 @@ After Performing Feature Engineering, there were total 31 features. I used **Ran
 
 - **Version Control:** GitHub is utilized for version control and collaboration, facilitating seamless management of the project codebase and resources.
 
+## Results    
+**Web App Link:** [https://flight-prices-prediction-sagemaker.streamlit.app/]
 
 ---
